@@ -2,8 +2,15 @@ A video is passing around and many people who watched the video died for
 unclear reason. A student is curious about the story behind and decided 
 to figure it out by himself. 
 
+<<<<<<< HEAD
 The student begins to investigate. They make a list of the people they know that watched the video, and those who died. Using the list, they make a plan to talk to their friends and family to find out where and when they found and watched the video.
 
 
 
 
+=======
+That student watched the video and promptly died, unable to discover the
+mystery before meeting their untimely demise. This continued through
+an array of students before one of them had the bright idea to
+show it to others rather than themselves.                           Menzia
+>>>>>>> 1929030cfbdddebc8a45b3a2c320f152ca63118f
